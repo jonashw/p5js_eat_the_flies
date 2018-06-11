@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1.3915203in"
+   height="0.29761544in"
+   viewBox="0 0 35.344616 7.5594323"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="fly.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:export-filename="C:\Users\jonashw\Google Drive\HobbySoftware\p5js_sketches\eat_the_flies!\fly.png"
+   inkscape:export-xdpi="449.01999"
+   inkscape:export-ydpi="449.01999">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.919596"
+     inkscape:cx="61.20305"
+     inkscape:cy="6.8520359"
+     inkscape:document-units="in"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="in"
+     inkscape:snap-page="true"
+     inkscape:pagecheckerboard="true"
+     borderlayer="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-smooth-nodes="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-122.46649,-57.750294)">
+    <g
+       id="g83">
+      <rect
+         ry="0"
+         rx="0"
+         y="57.750294"
+         x="134.24803"
+         height="7.5594287"
+         width="11.781537"
+         id="rect47"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:7.13221502;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         inkscape:export-filename="C:\Users\jonashw\Google Drive\HobbySoftware\p5js_sketches\eat_the_flies!\fly-02.png"
+         inkscape:export-xdpi="107.8"
+         inkscape:export-ydpi="107.8" />
+      <g
+         transform="matrix(0.32208259,0,0,0.32208259,332.27574,136.16366)"
+         id="g37">
+        <ellipse
+           style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:3.00161743;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           id="ellipse31"
+           cx="-380.78528"
+           cy="-488.45975"
+           rx="8.3585577"
+           ry="4.0688019"
+           transform="matrix(0.87724786,-0.48003771,0.52023133,0.85402539,0,0)"
+           inkscape:transform-center-x="-2.7024207"
+           inkscape:transform-center-y="-2.2604496" />
+        <ellipse
+           style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:3.00161743;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           id="ellipse33"
+           cx="639.24384"
+           cy="84.886681"
+           rx="8.3585577"
+           ry="4.0688019"
+           transform="matrix(-0.87724786,-0.48003771,-0.52023133,0.85402539,0,0)"
+           inkscape:transform-center-x="2.7024032"
+           inkscape:transform-center-y="-2.2604602" />
+        <ellipse
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32291675;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           id="ellipse35"
+           cx="-596.54559"
+           cy="-227.3475"
+           rx="7.1433134"
+           ry="7.0182533" />
+      </g>
+    </g>
+    <g
+       id="g90"
+       transform="translate(2.8280029,-7.0492363)">
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:7.13221502;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         id="rect51"
+         width="11.781537"
+         height="7.5594287"
+         x="143.20157"
+         y="64.79953"
+         rx="0"
+         ry="0"
+         inkscape:export-filename="C:\Users\jonashw\Google Drive\HobbySoftware\p5js_sketches\eat_the_flies!\fly-03.png"
+         inkscape:export-xdpi="107.8"
+         inkscape:export-ydpi="107.8" />
+      <g
+         transform="matrix(0.32208259,0,0,0.32208259,341.22927,143.21289)"
+         id="g59">
+        <ellipse
+           style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:3.00161743;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           id="ellipse53"
+           cx="-237.91577"
+           cy="-578.01324"
+           rx="8.3585577"
+           ry="4.0688019"
+           transform="matrix(0.72311346,-0.69072927,0.72354291,0.6902794,0,0)"
+           inkscape:transform-center-x="-2.0252902"
+           inkscape:transform-center-y="-2.8828667" />
+        <ellipse
+           style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:3.00161743;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           id="ellipse55"
+           cx="586.53876"
+           cy="246.97855"
+           rx="8.3585577"
+           ry="4.0688019"
+           transform="matrix(-0.72311346,-0.69072927,-0.72354291,0.6902794,0,0)"
+           inkscape:transform-center-x="2.0252679"
+           inkscape:transform-center-y="-2.8828682" />
+        <ellipse
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32291675;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           id="ellipse57"
+           cx="-596.54559"
+           cy="-227.3475"
+           rx="7.1433134"
+           ry="7.0182533" />
+      </g>
+    </g>
+    <g
+       id="g76">
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:7.13221502;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         id="rect61"
+         width="11.781537"
+         height="7.5594287"
+         x="122.46649"
+         y="57.750298"
+         rx="0"
+         ry="0"
+         inkscape:export-filename="C:\Users\jonashw\Google Drive\HobbySoftware\p5js_sketches\eat_the_flies!\fly01.png"
+         inkscape:export-xdpi="107.8"
+         inkscape:export-ydpi="107.8" />
+      <g
+         transform="matrix(0.32208259,0,0,0.32208259,320.49419,136.16367)"
+         id="g69">
+        <ellipse
+           style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:3.00161743;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           id="ellipse63"
+           cx="-499.7352"
+           cy="-364.96362"
+           rx="8.3585577"
+           ry="4.0688019"
+           transform="matrix(0.97159926,-0.23663237,0.28146684,0.95957095,0,0)"
+           inkscape:transform-center-x="-3.1953892"
+           inkscape:transform-center-y="-1.4839838" />
+        <ellipse
+           style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:3.00161743;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           id="ellipse65"
+           cx="646.35516"
+           cy="-82.335205"
+           rx="8.3585577"
+           ry="4.0688019"
+           transform="matrix(-0.97159926,-0.23663237,-0.28146684,0.95957095,0,0)"
+           inkscape:transform-center-x="3.1953639"
+           inkscape:transform-center-y="-1.4840027" />
+        <ellipse
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32291675;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           id="ellipse67"
+           cx="-596.54559"
+           cy="-227.3475"
+           rx="7.1433134"
+           ry="7.0182533" />
+      </g>
+    </g>
+  </g>
+</svg>
