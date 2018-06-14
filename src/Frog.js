@@ -66,12 +66,17 @@ function Frog(){
     _lickingTargetPosition.y = pos.y;
     tongueTip.position.x = tongueCenter.x;
     tongueTip.position.y = tongueCenter.y;
+    this.lookAt(_lickingTargetPosition);
+  };
+
+  this.lookAt = pos => {
     eyes.forEach(e => {
-      let diff = p5.Vector.sub(_lickingTargetPosition, e.position);
+      let diff = p5.Vector.sub(pos, e.position);
       let heading = degrees(diff.heading());
       e.rotation = heading;
     });
   };
+
   this.draw = () => {
     if(_lickingTimeLeft == undefined){
         tongueTip.visible = false;

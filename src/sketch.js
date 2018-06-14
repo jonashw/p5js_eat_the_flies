@@ -28,6 +28,9 @@ function setup() {
   resizeCanvas(windowWidth, windowHeight);
 } 
 
+function mouseMoved(){ frog.lookAt(createVector(mouseX,mouseY)); }
+function touchMoved(){ frog.lookAt(createVector(mouseX,mouseY)); }
+
 function touchStarted(){
   if(touches.length > 0 ){
     let touch = touches[touches.length - 1];
