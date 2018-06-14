@@ -1,4 +1,5 @@
-function Frog(){
+function Frog(lickSnd,ribbitSounds){
+  lickSnd.setVolume(1);
   var _lickingTargetPosition = createVector(0,0);
   var _lickingTimeout;
   var _lickingTimeLeft;
@@ -54,6 +55,11 @@ function Frog(){
       return;
     }
   };
+
+  this.ribbit = () => {
+    ribbitSounds[floor(random(ribbitSounds.length))].play();
+  };
+
   this.tryLick = pos => {
     if(_lickingTimeLeft){
         return;
@@ -66,6 +72,7 @@ function Frog(){
     _lickingTargetPosition.y = pos.y;
     tongueTip.position.x = tongueCenter.x;
     tongueTip.position.y = tongueCenter.y;
+    lickSnd.play();
     this.lookAt(_lickingTargetPosition);
   };
 
